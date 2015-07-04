@@ -1,12 +1,12 @@
 #!/bin/bash
 
 #	*********************************************************
-#	*	Auto Watermark Processor                            *
+#	*   Auto Watermark Processor                            *
 #	*********************************************************
 #	*                                                       *
-#	*	Writen By:  Michael Hall                            *
-#	*	Phone:      (310) 362-6522                          *
-#	*	Email:		michael.hall.lax@gmail.com              *
+#	*   Writen By:  Michael Hall                            *
+#	*   Phone:      (310) 362-6522                          *
+#	*   Email:		michael.hall.lax@gmail.com              *
 #	*                                                       *
 #	*********************************************************
 
